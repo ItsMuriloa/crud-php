@@ -43,14 +43,14 @@ como o arquivo de conexão com o banco de dados, ajudando a manter informações
 ## Estrutura do projeto
 
 crud-php/
-├── index.php
-├── criar.php
-├── editar.php
-├── processa.php
-├── processa_editar.php
-├── processa_deletar.php
-├── conexao.php
-└── README.md
+index.php
+criar.php
+editar.php
+processa.php
+processa_editar.php
+processa_deletar.php
+conexao.php
+README.md
 
 ## Banco de Dados
 
